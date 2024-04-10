@@ -76,4 +76,6 @@ plt.xlabel('radius_mean')
 plt.ylabel('texture_mean')
 
 plt.tight_layout()
+plt.savefig('ModelComprarisson.png')
+
 plt.show()
